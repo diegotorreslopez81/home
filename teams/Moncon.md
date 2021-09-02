@@ -1,4 +1,14 @@
-# The  Project
+# Moncon
+
+<!-- PROJECT LOGO -->
+<table align="center">
+	<tr>
+		<td align="center" width="9999">
+			<a href="https://gitlab.com/infinite-labs/moncon-framework"><img src="images/logo.png" alt="Logo" height="80" align="center"></a>
+			<h1 align="center">The world's simplest paywall</h1>
+		</td>
+	</tr>
+</table>
 
 Media and digital content creators are in the midst of a transformation. On the one hand, traditional media, which used to live from paper printing, have had to transition to the digital model. Due to the pandemic situation, their off-line revenues have decreased drastically; so, they are looking for new revenue models and have not found a fair and sustainable business model.
 
