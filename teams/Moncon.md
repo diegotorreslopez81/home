@@ -74,7 +74,7 @@ As a team, we perfectly combine business and technology worlds, having created s
 
 You can try our solution following these steps:
 1- Visit [Dashboard](https://app.dashboard.moncon.co) 
-2- Access with our demo user: username "demo@moncon.co" and password "moncon"
+2- Access with our demo user: username "hello@moncon.co" and password "moncon"
 3- Imagine you are a publisher and you want to sell content by a condition, and you are the owner of this site [Publisher Media](https://demo.moncon.co).
 4- Choose a URL from your [Publisher Media](https://demo.moncon.co) and go to "Monetize Your Content" on [Dashboard](https://app.dashboard.moncon.co).
 5- Add price and select the condition (you are asking a user for this credential).
